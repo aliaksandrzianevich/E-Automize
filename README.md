@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## The authors
 
-* **Aleksandr Zenevich** - *all work* - [snglrtycrvtureofspce](https://github.com/snglrtycrvtureofspce)
+* **Aliaksandr Zianevich** - *all work* - [aliaksandrzianevich](https://github.com/aliaksandrzianevich)
 
 # Проектная работа по предмету "ТРПО", на языке программирования C# с использованием графического интерфейса Windows Forms и подключаемой базой данных SQLite3
 Тема проектной работы - "Приложение для продажи товаров в категории 'Электроника'"
@@ -185,4 +185,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Авторы
 
-* **Aleksandr Zenevich** - *вся работа* - [snglrtycrvtureofspce](https://github.com/snglrtycrvtureofspce)
+* **Aliaksandr Zianevich** - *вся работа* - [aliaksandrzianevich](https://github.com/aliaksandrzianevich)
